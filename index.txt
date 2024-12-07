@@ -1,0 +1,12 @@
+Important Array Methods
+1- foreach Method
+2- reduce Method
+3- map Method
+4- filter Method
+5- sort Method
+6- every Method
+7- some Method
+8- find Method
+9- fill Method
+10- splice Method
+------------------------
