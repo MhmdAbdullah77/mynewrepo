@@ -8,49 +8,4 @@ body{
     font-family:Poppins ;
 
 }
-main {
-    margin-top: 50px;
-    display: flex;
-    flex-direction: column;
-}
-main h1{
-    text-align: center;
-}
-.frm {
-    margin-top: 2px;
-    text-align: center;
-}
-.frm input[type=text]{
-    width: 40%;
-    padding: 10px;
-}
-.frm input[type=submit]{
-    width: 10%;
-    padding: 10px;
-}
-ul {
-    border-radius: 10px;
-    margin-top: 15px;
-   width: 50%;
-   align-self: center;
-    background-color: gray;
-text-align: center;
-}
-ul li{
-    padding: 5px;
-    list-style: none;
-    display: flex;
-    justify-content: space-around;
-}
-li .spn{
-    width: 80%;
-    text-align: left;
-}
-.btn {
-    cursor: pointer;
-    padding: 3px 10px;
-    border: none;
-    background-color:gainsboro ;
-    border-radius: 10px;
-}
 
