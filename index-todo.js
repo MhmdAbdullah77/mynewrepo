@@ -3,7 +3,7 @@ const list = document.querySelector('#list-container');
 const button = document.querySelector('button');
 button.addEventListener('click',function(){
     if(input.value === ''){
-        alert('you must erite something')
+        alert('you must write something')
     }else{
         let li = document.createElement('li');
         li.innerHTML = input.value
