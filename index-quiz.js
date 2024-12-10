@@ -115,3 +115,5 @@ nextButton.addEventListener('click',function(){
     }
 })
 startQuiz();
+
+
